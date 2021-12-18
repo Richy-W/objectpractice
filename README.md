@@ -1,3 +1,3 @@
 # objectpractice
-Small proggram to practace object OOP by creating objects based on athlestes using the superclass and subclasses based on the sport played. 
+Small program to practace object OOP by creating objects based on athlestes using the superclass and subclasses based on the sport played. 
 
